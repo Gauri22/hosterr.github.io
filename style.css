@@ -1,0 +1,94 @@
+#content {
+    background-color: #f9f4e8;
+    min-height: 200px;
+}
+
+#btn1 {
+    border-radius: 150px;
+    background-image: linear-gradient(to right, rgb(255, 202, 103), rgb(252, 125, 146));
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: -60px;
+    top: -5px;
+}
+
+#head {
+    position: relative;
+    top: 10px;
+}
+
+#text {
+    position: relative;
+    right: -100px;
+    font-weight: bold;
+    top: 8px;
+    color: gray;
+}
+
+#text2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 1.2em;
+}
+
+#check {
+    position: relative;
+    top: 10px;
+    color: gray;
+}
+
+#image {
+    width: 270px;
+    height: 300px;
+    float: right;
+    position: relative;
+    top: -920px;
+}
+
+#image1 {
+    width: 270px;
+    height: 300px;
+    transform: rotate(-60deg);
+    float: right;
+    position: relative;
+    top: -20px;
+}
+
+#image2 {
+    width: 270px;
+    height: 300px;
+    transform: rotate(-40deg);
+    float: right;
+    position: relative;
+    top: -320px;
+}
+
+#image3 {
+    width: 270px;
+    height: 300px;
+    transform: rotate(-20deg);
+    float: right;
+    position: relative;
+    top: -620px;
+}
+
+#footer {
+    position: relative;
+    top: -820px;
+}
+
+#avtar {
+    float: right;
+}
+
+#foot1 {
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#foot2 {
+    font-weight: bold;
+    color: gray;
+}
